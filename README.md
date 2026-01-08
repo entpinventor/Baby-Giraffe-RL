@@ -1,2 +1,2 @@
 # Baby-Giraffe-RL
-A stability-first reinforcement learning project inspired by the slow but resilient growth of a giraffe calf, focusing on long-horizon consistency over short-term performance.
+A reinforcement learning project that learns slowly, stays stable, and looks far ahead — like a baby giraffe.
